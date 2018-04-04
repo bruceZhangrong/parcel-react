@@ -1,0 +1,29 @@
+{
+  "name": "parcel-react",
+  "version": "1.0.0",
+  "description": "A project about parcel-react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruceZhangrong/parcel-react.git"
+  },
+  "author": "bruce",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruceZhangrong/parcel-react/issues"
+  },
+  "homepage": "https://github.com/bruceZhangrong/parcel-react#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.6.2"
+  }
+}
